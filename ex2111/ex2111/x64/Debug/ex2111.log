@@ -1,0 +1,3 @@
+﻿  ex2111.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex2111\ex2111\ex2111.c(14,11): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  ex2111.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex2111\x64\Debug\ex2111.exe

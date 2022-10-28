@@ -1,0 +1,6 @@
+﻿  ex2102.c
+C:\Visual Studio\Projets\Gestion Bancaire\ex2102\ex2102\ex2102.c(9,9): warning C4477: 'printf' : la chaîne de format '%ld' nécessite un argument de type 'long', mais l'argument variadique 1 est de type 'time_t'
+C:\Visual Studio\Projets\Gestion Bancaire\ex2102\ex2102\ex2102.c(9,9): message : utilisez '%lld' dans la chaîne de format
+C:\Visual Studio\Projets\Gestion Bancaire\ex2102\ex2102\ex2102.c(9,9): message : utilisez '%Id' dans la chaîne de format
+C:\Visual Studio\Projets\Gestion Bancaire\ex2102\ex2102\ex2102.c(9,9): message : utilisez '%I64d' dans la chaîne de format
+  ex2102.vcxproj -> C:\Visual Studio\Projets\Gestion Bancaire\ex2102\x64\Debug\ex2102.exe

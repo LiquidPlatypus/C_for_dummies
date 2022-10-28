@@ -1,0 +1,4 @@
+﻿  ex1505.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(702,5): error MSB6006: Arrêt de "CL.exe" avec le code 2.
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1505\ex1505\ex1505.c(7,2): warning C4013: 'sub' non défini(e) ; extern retournant int pris par défaut
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1505\ex1505\ex1505.c(12,6): error C2371: 'sub' : redéfinition ; types de base différents

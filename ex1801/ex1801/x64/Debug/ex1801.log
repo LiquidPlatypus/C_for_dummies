@@ -1,0 +1,11 @@
+﻿  ex1801.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1801\ex1801\ex1801.c(10,9): warning C4477: 'printf' : la chaîne de format '%u' nécessite un argument de type 'unsigned int', mais l'argument variadique 1 est de type 'size_t'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1801\ex1801\ex1801.c(10,9): message : utilisez '%zu' dans la chaîne de format
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1801\ex1801\ex1801.c(11,9): warning C4477: 'printf' : la chaîne de format '%u' nécessite un argument de type 'unsigned int', mais l'argument variadique 1 est de type 'size_t'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1801\ex1801\ex1801.c(11,9): message : utilisez '%zu' dans la chaîne de format
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1801\ex1801\ex1801.c(12,9): warning C4477: 'printf' : la chaîne de format '%u' nécessite un argument de type 'unsigned int', mais l'argument variadique 1 est de type 'size_t'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1801\ex1801\ex1801.c(12,9): message : utilisez '%zu' dans la chaîne de format
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1801\ex1801\ex1801.c(13,9): warning C4477: 'printf' : la chaîne de format '%u' nécessite un argument de type 'unsigned int', mais l'argument variadique 1 est de type 'size_t'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1801\ex1801\ex1801.c(13,9): message : utilisez '%zu' dans la chaîne de format
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1801\ex1801\ex1801.c(7,1): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  ex1801.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1801\x64\Debug\ex1801.exe

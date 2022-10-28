@@ -1,0 +1,4 @@
+﻿  ex1008.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1008\ex1008\ex1008.c(12,17): warning C4020: 'graph' : paramètres réels trop nombreux
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1008\ex1008\ex1008.c(20,1): warning C4029: la déclaration de la liste de paramètres formels est différente de la définition
+  ex1008.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1008\x64\Debug\ex1008.exe

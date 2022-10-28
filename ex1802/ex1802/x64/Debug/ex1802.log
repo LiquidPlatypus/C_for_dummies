@@ -1,0 +1,4 @@
+﻿  ex1802.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1802\ex1802\ex1802.c(7,9): warning C4477: 'printf' : la chaîne de format '%u' nécessite un argument de type 'unsigned int', mais l'argument variadique 2 est de type 'size_t'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1802\ex1802\ex1802.c(7,9): message : utilisez '%zu' dans la chaîne de format
+  ex1802.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1802\x64\Debug\ex1802.exe

@@ -1,0 +1,3 @@
+﻿  ex1806.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1806\ex1806\ex1806.c(7,1): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  ex1806.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1806\x64\Debug\ex1806.exe

@@ -1,0 +1,6 @@
+﻿  ex1406.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1406\ex1406\ex1406.c(16,11): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1406\ex1406\ex1406.c(16,11): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1406\ex1406\ex1406.c(16,11): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%s'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1406\ex1406\ex1406.c(16,11): message : cet argument est utilisé comme taille de mémoire tampon
+  ex1406.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1406\x64\Debug\ex1406.exe

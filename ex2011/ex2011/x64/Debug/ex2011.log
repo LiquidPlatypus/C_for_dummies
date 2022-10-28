@@ -1,0 +1,7 @@
+﻿  ex2011.c
+C:\Visual Studio\Projets\Gestion Bancaire\ex2011\ex2011\ex2011.c(43,9): warning C4129: 'Q' : caractère de séquence d'échappement non reconnu
+C:\Visual Studio\Projets\Gestion Bancaire\ex2011\ex2011\ex2011.c(72,10): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\Visual Studio\Projets\Gestion Bancaire\ex2011\ex2011\ex2011.c(72,10): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\Visual Studio\Projets\Gestion Bancaire\ex2011\ex2011\ex2011.c(72,10): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%s'
+C:\Visual Studio\Projets\Gestion Bancaire\ex2011\ex2011\ex2011.c(72,10): message : cet argument est utilisé comme taille de mémoire tampon
+  ex2011.vcxproj -> C:\Visual Studio\Projets\Gestion Bancaire\ex2011\x64\Debug\ex2011.exe

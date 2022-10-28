@@ -1,0 +1,3 @@
+﻿  ex1013.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1013\ex1013\ex1013.c(47): warning C4715: 'verifier' : les chemins de contrôle ne retournent pas tous une valeur
+  ex1013.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1013\x64\Debug\ex1013.exe

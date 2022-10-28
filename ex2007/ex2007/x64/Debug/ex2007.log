@@ -1,0 +1,3 @@
+﻿  ex2007.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex2007\ex2007\ex2007.c(18,13): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  ex2007.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex2007\x64\Debug\ex2007.exe

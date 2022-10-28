@@ -1,0 +1,3 @@
+﻿  ex1207.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1207\ex1207\ex1207.c(11,17): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  ex1207.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1207\x64\Debug\ex1207.exe

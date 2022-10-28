@@ -1,0 +1,5 @@
+﻿  ex2201.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex2201\ex2201\ex2201.c(8,26): warning C4047: 'fonction' : les niveaux d'indirection de 'FILE **' et de 'char [10]' sont différents
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex2201\ex2201\ex2201.c(8,15): warning C4024: 'fopen_s' : types différents pour le paramètre formel et réel 1
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex2201\ex2201\ex2201.c(8,7): error C2198: 'fopen_s' : pas assez d'arguments pour un appel
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex2201\ex2201\ex2201.c(8,32): warning C4047: '=' : les niveaux d'indirection de 'FILE *' et de 'errno_t' sont différents

@@ -1,0 +1,6 @@
+﻿  ex1111.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1111\ex1111\ex1111.c(11,13): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1111\ex1111\ex1111.c(14,13): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1111\ex1111\ex1111.c(17,13): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1111\ex1111\ex1111.c(20,13): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  ex1111.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1111\x64\Debug\ex1111.exe

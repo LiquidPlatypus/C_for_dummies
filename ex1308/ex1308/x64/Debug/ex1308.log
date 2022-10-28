@@ -1,0 +1,7 @@
+﻿  ex1308.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1308\ex1308\ex1308.c(11,13): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1308\ex1308\ex1308.c(11,13): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1308\ex1308\ex1308.c(11,13): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%s'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1308\ex1308\ex1308.c(11,13): message : cet argument est utilisé comme taille de mémoire tampon
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1308\ex1308\ex1308.c(8,9): warning C4101: 'match' : variable locale non référencée
+  ex1308.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1308\x64\Debug\ex1308.exe

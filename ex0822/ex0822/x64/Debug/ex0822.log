@@ -1,0 +1,3 @@
+﻿  ex0822.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex0822\ex0822\ex0822.c(5,12): warning C4101: 'leplusgrand' : variable locale non référencée
+  ex0822.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex0822\x64\Debug\ex0822.exe

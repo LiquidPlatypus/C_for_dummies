@@ -1,0 +1,9 @@
+﻿  ex1903.cpp
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1903\ex1903\ex1903.cpp(7,16): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1903\ex1903\ex1903.cpp(10,9): warning C4477: 'printf' : la chaîne de format '%p' nécessite un argument de type 'void *', mais l'argument variadique 1 est de type 'int'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1903\ex1903\ex1903.cpp(10,9): warning C4313: 'printf' : '%p' dans la chaîne de format est en conflit avec l'argument 1 de type 'int'.
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1903\ex1903\ex1903.cpp(11,9): warning C4477: 'printf' : la chaîne de format '%p' nécessite un argument de type 'void *', mais l'argument variadique 1 est de type 'int'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1903\ex1903\ex1903.cpp(11,9): warning C4313: 'printf' : '%p' dans la chaîne de format est en conflit avec l'argument 1 de type 'int'.
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1903\ex1903\ex1903.cpp(12,9): warning C4477: 'printf' : la chaîne de format '%p' nécessite un argument de type 'void *', mais l'argument variadique 1 est de type 'double'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1903\ex1903\ex1903.cpp(13,9): warning C4477: 'printf' : la chaîne de format '%p' nécessite un argument de type 'void *', mais l'argument variadique 1 est de type 'double'
+  ex1903.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1903\x64\Debug\ex1903.exe

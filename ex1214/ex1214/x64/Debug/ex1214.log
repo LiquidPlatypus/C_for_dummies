@@ -1,0 +1,7 @@
+﻿  ex1214.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1214\ex1214\ex1214.c(43,10): warning C4047: 'return' : les niveaux d'indirection de 'int' et de 'int [40]' sont différents
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1214\ex1214\ex1214.c(51,11): warning C4047: 'fonction' : les niveaux d'indirection de 'int' et de 'int [40]' sont différents
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1214\ex1214\ex1214.c(51,10): warning C4024: 'tri_Tab' : types différents pour le paramètre formel et réel 1
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1214\ex1214\ex1214.c(34): warning C4716: 'tri_Tab' : doit retourner une valeur
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1214\ex1214\ex1214.c(43): warning C4172: retourne l'adresse d'une variable locale ou : r temporaire
+  ex1214.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1214\x64\Debug\ex1214.exe

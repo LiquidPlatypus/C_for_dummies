@@ -1,0 +1,4 @@
+﻿  ex1408.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1408\ex1408\ex1408.c(19,46): warning C4047: 'fonction' : les niveaux d'indirection de 'rsize_t' et de 'char [18]' sont différents
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1408\ex1408\ex1408.c(19,27): warning C4024: 'strcpy_s' : types différents pour le paramètre formel et réel 2
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1408\ex1408\ex1408.c(19,2): error C2198: 'strcpy_s' : pas assez d'arguments pour un appel

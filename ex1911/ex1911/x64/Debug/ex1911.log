@@ -1,0 +1,3 @@
+﻿  ex1911.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1911\ex1911\ex1911.c(5,1): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  ex1911.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1911\x64\Debug\ex1911.exe

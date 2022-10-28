@@ -1,0 +1,5 @@
+﻿  ex1916.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1916\ex1916\ex1916.c(11,22): warning C4047: '=' : les niveaux d'indirection de 'char' et de 'char **' sont différents
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1916\ex1916\ex1916.c(12,14): warning C4047: 'fonction' : les niveaux d'indirection de 'const char *' et de 'char' sont différents
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1916\ex1916\ex1916.c(12,7): warning C4024: 'puts' : types différents pour le paramètre formel et réel 1
+  ex1916.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1916\x64\Debug\ex1916.exe

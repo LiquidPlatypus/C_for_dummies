@@ -1,0 +1,3 @@
+﻿  ex1604.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1604\ex1604\ex1604.c(24,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1604\ex1604\ex1604.c(25,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

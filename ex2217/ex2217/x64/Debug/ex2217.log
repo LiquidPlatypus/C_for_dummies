@@ -1,0 +1,5 @@
+﻿  ex2217.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex2217\ex2217\ex2217.c(176,7): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex2217\ex2217\ex2217.c(213,39): warning C4474: 'printf' : trop d'arguments passés pour la chaîne de format
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex2217\ex2217\ex2217.c(213,39): message : les espaces réservés et leurs paramètres attendent des arguments 0 variadiques, mais des arguments 1 ont été fournis
+  ex2217.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex2217\x64\Debug\ex2217.exe

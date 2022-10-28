@@ -1,0 +1,3 @@
+﻿  ex1109.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1109\ex1109\ex1109.c(15,14): warning C4305: '*=' : troncation de 'double' à 'float'
+  ex1109.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1109\x64\Debug\ex1109.exe

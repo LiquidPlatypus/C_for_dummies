@@ -1,0 +1,10 @@
+﻿  ex1310.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1310\ex1310\ex1310.c(10,10): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1310\ex1310\ex1310.c(10,10): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1310\ex1310\ex1310.c(10,10): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%s'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1310\ex1310\ex1310.c(10,10): message : cet argument est utilisé comme taille de mémoire tampon
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1310\ex1310\ex1310.c(12,10): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1310\ex1310\ex1310.c(12,10): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1310\ex1310\ex1310.c(12,10): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%s'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1310\ex1310\ex1310.c(12,10): message : cet argument est utilisé comme taille de mémoire tampon
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1310\ex1310\ex1310.c(13,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

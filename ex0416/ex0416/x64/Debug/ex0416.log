@@ -1,0 +1,4 @@
+﻿  ex0416.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex0416\ex0416\ex0416.c(5,2): warning C4013: 'pritf' non défini(e) ; extern retournant int pris par défaut
+ex0416.obj : error LNK2019: symbole externe non résolu pritf référencé dans la fonction main
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex0416\x64\Debug\ex0416.exe : fatal error LNK1120: 1 externes non résolus

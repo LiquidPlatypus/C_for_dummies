@@ -1,0 +1,4 @@
+﻿  ex1804.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1804\ex1804\ex1804.c(7,12): warning C4477: 'printf' : la chaîne de format '%lu' nécessite un argument de type 'unsigned long', mais l'argument variadique 1 est de type 'size_t'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1804\ex1804\ex1804.c(7,12): message : utilisez '%zu' dans la chaîne de format
+  ex1804.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1804\x64\Debug\ex1804.exe

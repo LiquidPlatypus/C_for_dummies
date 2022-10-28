@@ -1,0 +1,3 @@
+﻿  ex1601.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1601\ex1601\ex1601.c(12,8): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  ex1601.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1601\x64\Debug\ex1601.exe

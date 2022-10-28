@@ -1,0 +1,4 @@
+﻿  ex1115.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1115\ex1115\ex1115.c(12,46): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1115\ex1115\ex1115.c(14,7): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  ex1115.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1115\x64\Debug\ex1115.exe

@@ -1,0 +1,4 @@
+﻿  ex1116.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1116\ex1116\ex1116.c(16,13): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1116\ex1116\ex1116.c(11,1): warning C4305: 'initialisation' : troncation de 'double' à 'const float'
+  ex1116.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1116\x64\Debug\ex1116.exe

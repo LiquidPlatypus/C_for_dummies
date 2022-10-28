@@ -1,0 +1,3 @@
+﻿  ex1312.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1312\ex1312\ex1312.c(6,1): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  ex1312.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex1312\x64\Debug\ex1312.exe

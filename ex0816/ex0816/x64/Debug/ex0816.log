@@ -1,0 +1,6 @@
+﻿  ex0816.c
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex0816\ex0816\ex0816.c(8,10): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex0816\ex0816\ex0816.c(8,10): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex0816\ex0816\ex0816.c(8,10): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex0816\ex0816\ex0816.c(8,10): message : cet argument est utilisé comme taille de mémoire tampon
+  ex0816.vcxproj -> C:\Visual Studio\Projets\Apprendre à programmer en C pour les nuls\ex0816\x64\Debug\ex0816.exe
